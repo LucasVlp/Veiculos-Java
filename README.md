@@ -2,6 +2,4 @@
 
 Grupo:
 
-Edson Fernando
-Eduardo Franco
-Lucas Volpe
+Edson Fernando, Eduardo Franco e Lucas Volpe
